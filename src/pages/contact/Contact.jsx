@@ -74,7 +74,7 @@ const Contact = () => {
           </div>
         </div>
 
-        <form action="" className="contact__form">
+        <form action="mailto:jurayevamehriniso1@gmail.com" method="post" enctype="text/plain" className="contact__form">
           <div className="form__input-group">
             <div className="form__input-div">
               <input
