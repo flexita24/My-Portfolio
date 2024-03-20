@@ -108,12 +108,12 @@ const Contact = () => {
             ></textarea>
           </div>
 
-          <div className="button">
+          <button className="button">
             Send Message
             <span className="button__icon contact__button-icon">
               <FiSend />
             </span>
-          </div>
+          </button>
         </form>
       </div>
     </section>
