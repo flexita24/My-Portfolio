@@ -21,7 +21,7 @@ const About = () => {
               <Info />
             </ul>
 
-            <a href="./CV.pdf" download="CV.pdf" className="button">
+            <a href="../../assets/CVResume.pdf" download="CV.pdf" className="button">
               Download CV{" "}
               <span className="button__icon">
                 <FaDownload />
